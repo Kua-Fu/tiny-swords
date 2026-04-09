@@ -2,16 +2,20 @@
 
 ![Project Icon](icon.svg)
 
-This repository contains a lightweight Godot starter setup based on the Tiny Swords asset pack.
+EN: This repository contains a lightweight Godot starter setup based on the Tiny Swords asset pack.  
+中文：这个仓库是一个基于 Tiny Swords 美术包的轻量级 Godot RPG 起步模板。
 
-## 📦 Asset License Notes
+## 📦 Asset License Notes | 资源授权说明
 
-Because of asset pack license restrictions, this repository only includes assets that are marked as CC0.  
-You need to download the remaining assets manually from:
+EN: Due to asset pack license restrictions, this repository only includes assets marked as CC0.  
+中文：受资源包授权限制，本仓库仅包含标记为 CC0 的素材。
+
+EN: You need to download the remaining assets manually from:  
+中文：其余素材请从以下地址手动下载：
 
 https://pixelfrog-assets.itch.io/tiny-swords
 
-### 🔧 Assets To Add Manually
+### 🔧 Assets To Add Manually | 需要手动补充的素材
 
 - Bushe1
 - Bushe2
@@ -32,16 +36,17 @@ https://pixelfrog-assets.itch.io/tiny-swords
 - Tilemap_color3
 - Water Background color
 
-## 🧙 Current Player Prototype
+## 🧙 Current Player Prototype | 当前玩家原型
 
-The project now includes a basic player scene and script:
+EN: The project currently includes a basic player scene and script.  
+中文：项目目前已包含基础玩家场景与脚本。
 
-- Scene: `res://scenes/entities/player/player.tscn`
-- Script: `res://scenes/entities/player/player.gd`
+- Scene | 场景: `res://scenes/entities/player/player.tscn`
+- Script | 脚本: `res://scenes/entities/player/player.gd`
 
 ![Player Preview](assets/sprites/player/Warrior_Blue.png)
 
-### 🎮 Controls
+### 🎮 Controls | 操作说明
 
-- Move: `W/A/S/D` ⌨️
-- Attack: Left mouse button 🖱️
+- Move | 移动: `W/A/S/D` ⌨️
+- Attack | 攻击: Left mouse button / 鼠标左键 🖱️
